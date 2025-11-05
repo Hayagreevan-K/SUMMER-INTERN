@@ -1,0 +1,6 @@
+{
+  "task1": ["Atelectasis", "Cardiomegaly"],
+  "task2": ["Effusion", "Infiltration"],
+  "task3": ["Pneumonia", "Pneumothorax"],
+  "task4": ["Consolidation", "Edema"]
+}
